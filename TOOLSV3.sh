@@ -1,8 +1,7 @@
 #!/bin/bash
 #version 1.0
 
-#MAU NGAPAIN TOT?:V
-#KAGA BERMORAL!
+#MAU RECODE YA 
 
 
 #01/08/18
